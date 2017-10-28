@@ -1,6 +1,4 @@
 #include <fstream>
-#include <cmath>
-#include <iomanip>
 
 int main() {
   std::ifstream inf("input.txt");
