@@ -1,6 +1,6 @@
-# Coding Competitions Problems Solutions
+# Solutions of Coding Competitions Problems
 
-This repository contains problems solutions from course:
+This repository contains solutions of problems from course:
 - [How to Win Coding Competitions: Secrets of Champions](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+3T2017/course/)
 
 > **Warning**
